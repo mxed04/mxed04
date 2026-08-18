@@ -87,14 +87,20 @@ A relational database project modeling a real-world ticket reservation system â€
 
 ## ðŸ“« Connect With Me
 
-<p>
-  <a href="https://github.com/mxed04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <i>Always open to discussing AI, Bioinformatics, Open Source, or exciting collaborations!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:mohammadkhaje04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <!-- Add your LinkedIn / Email / Telegram badges here, e.g.:
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  -->
+  <a href="https://linkedin.com/in/mohammadafra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Mzed04" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
 <div align="center">
