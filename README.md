@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+KNTU;Exploring+AI%2C+Bioinformatics+%26+Software+Engineering;Learning+by+building%2C+one+problem+at+a+time)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mxed04&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
 </div>
 
 ## 👋 About Me
@@ -68,7 +72,7 @@ Exploring image processing and vision-based machine learning models as part of m
 
 ### 🎟️ Ticket Reservation & Management Platform
 A relational database project modeling a real-world ticket reservation system — users, venues, matches, tickets, payments, and reports — designed with proper ER modeling, normalized to 3NF, with a CI/CD pipeline via GitHub Actions.
-🔗 [View Repository](https://github.com/MohammafAfra83/SportsTicketPlatform) *(update this link if the project has moved to this account)*
+🔗 [View Repository](https://github.com/mxed04/SportsTicketPlatform)
 
 ---
 
