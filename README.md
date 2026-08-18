@@ -75,12 +75,12 @@ A relational database project modeling a real-world ticket reservation system â€
 ## ðŸ“Š GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxed04&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxed04&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mxed04&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mxed04&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxed04&hide_border=true&border_radius=0&hide_total_contributions=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mxed04&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
 </p>
 
 ---
