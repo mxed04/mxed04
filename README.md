@@ -84,10 +84,8 @@ A relational database project modeling a real-world ticket reservation system â€
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxed04&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxed04&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
-
----
 
 ## ðŸ“« Connect With Me
 
