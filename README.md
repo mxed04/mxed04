@@ -79,12 +79,9 @@ A relational database project modeling a real-world ticket reservation system �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mxed04&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mxed04&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://mxed04-rwu7.vercel.app/?user=mxed04&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repo Stats" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Overall Stats" />
 </p>
 
 ## 📫 Connect With Me
