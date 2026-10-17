@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+KNTU;Exploring+AI%2C+Bioinformatics+%26+Software+Engineering;Learning+by+building%2C+one+problem+at+a+time)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mxed04&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mxed04.mxed04" alt="Profile Views"/>
 </p>
 
 </div>
